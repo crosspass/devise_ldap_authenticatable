@@ -4,7 +4,7 @@ require "devise_ldap_authenticatable/version"
 
 Gem::Specification.new do |s|
   s.name     = 'devise_ldap_authenticatable'
-  s.version  = DeviseLdapAuthenticatable::VERSION.dup
+  s.version  = '0.8.7'
   s.platform = Gem::Platform::RUBY
   s.summary  = 'Devise extension to allow authentication via LDAP'
   s.email = 'curtis.schiewek@gmail.com'
